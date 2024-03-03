@@ -4,6 +4,7 @@ class Solution
     static void rotateArr(int arr[], int d, int n)
     {
         // add your code here
+        d=d%n;
         Stack<Integer> st=new Stack<>();
         for(int i=0;i<d;i++){
             st.push(arr[i]);
