@@ -1,6 +1,6 @@
 class Solution{
     static int evenlyDivides(int N){
-        // code here
+        // code here jvyfkuyfvkhtkytckyfkytfvkyt
         int c=0;
         int temp=N;
         while(temp>0){
