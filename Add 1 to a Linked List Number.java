@@ -1,4 +1,4 @@
-//dhwcsnakjnckjh
+////dhwcsnakjnckjh
 class Solution
 {
     public static Node reverse(Node head){
