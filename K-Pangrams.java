@@ -1,6 +1,6 @@
 class Solution {
     boolean kPangram(String str, int k) {
-        // code here
+        // code starts from here
          String s="";
         for(int i=0;i<str.length();i++){
             if(str.charAt(i)==' ') continue;
